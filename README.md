@@ -7,3 +7,9 @@ https://rkarcade.github.io/Simon_Game/
 How to Play? 
 
 https://www.youtube.com/watch?v=EWJ5uYwQJGU
+
+# Project Description
+Build a game that follows the sequence of button glow , every correct sequence will then increment the sequence to be followed and increase the level. 
+Failure of a sequence will prompt user to start Over. 
+
+
