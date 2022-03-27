@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #1ca398;
 }
 
 #level-title {
@@ -8,7 +8,7 @@ body {
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
-}
+}r
 
 .container {
   display: block;
@@ -40,7 +40,7 @@ body {
 }
 
 .blue {
-  background-color: blue;
+  background-color: rgb(8, 20, 129);
 }
 
 .yellow {
